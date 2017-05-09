@@ -1,0 +1,29 @@
+c:\users\angelo\documents\visual studio 2010\Projects\Ex5.4\Ex5.4\bin\Debug\Ex5.4.exe
+c:\users\angelo\documents\visual studio 2010\Projects\Ex5.4\Ex5.4\bin\Debug\Ex5.4.pdb
+c:\users\angelo\documents\visual studio 2010\Projects\Ex5.4\Ex5.4\bin\Debug\Ex5.4.xml
+c:\users\angelo\documents\visual studio 2010\Projects\Ex5.4\Ex5.4\obj\x86\Debug\Ex5._4.AboutBox.resources
+c:\users\angelo\documents\visual studio 2010\Projects\Ex5.4\Ex5.4\obj\x86\Debug\Ex5._4.SummerReading.resources
+c:\users\angelo\documents\visual studio 2010\Projects\Ex5.4\Ex5.4\obj\x86\Debug\Ex5._4.Resources.resources
+c:\users\angelo\documents\visual studio 2010\Projects\Ex5.4\Ex5.4\obj\x86\Debug\Ex5.4.vbproj.GenerateResource.Cache
+c:\users\angelo\documents\visual studio 2010\Projects\Ex5.4\Ex5.4\obj\x86\Debug\Ex5.4.exe
+c:\users\angelo\documents\visual studio 2010\Projects\Ex5.4\Ex5.4\obj\x86\Debug\Ex5.4.xml
+c:\users\angelo\documents\visual studio 2010\Projects\Ex5.4\Ex5.4\obj\x86\Debug\Ex5.4.pdb
+c:\users\angelo\documents\visual studio 2010\Projects\Ex5.4\Ex5.4\obj\x86\Debug\Ex5._4.SummaryForm.resources
+C:\Users\Angelo\Desktop\New folder (12)\Ex_12_8\Ex5.4\obj\x86\Debug\Ex5.4.exe
+C:\Users\Angelo\Desktop\New folder (12)\Ex_12_8\Ex5.4\obj\x86\Debug\Ex5.4.xml
+C:\Users\Angelo\Desktop\New folder (12)\Ex_12_8\Ex5.4\obj\x86\Debug\Ex5.4.pdb
+C:\Users\Angelo\Documents\UMASS\Old C Sharp\New folder (12)\Ex_12_8\Ex5.4\obj\x86\Debug\Ex5.4.exe
+C:\Users\Angelo\Documents\UMASS\Old C Sharp\New folder (12)\Ex_12_8\Ex5.4\obj\x86\Debug\Ex5.4.xml
+C:\Users\Angelo\Documents\UMASS\Old C Sharp\New folder (12)\Ex_12_8\Ex5.4\obj\x86\Debug\Ex5.4.pdb
+C:\Users\Angelo\Documents\UMASS\Old C Sharp\New folder (12)\Ex_12_8\Ex5.4\bin\Debug\Ex5.4.exe
+C:\Users\Angelo\Documents\UMASS\Old C Sharp\New folder (12)\Ex_12_8\Ex5.4\bin\Debug\Ex5.4.pdb
+C:\Users\Angelo\Documents\UMASS\Old C Sharp\New folder (12)\Ex_12_8\Ex5.4\bin\Debug\Ex5.4.xml
+C:\Users\Angelo\Documents\UMASS\Old C Sharp\New folder (12)\Ex_12_8\Ex5.4\obj\x86\Debug\Ex5.4.vbprojResolveAssemblyReference.cache
+C:\Users\Angelo\Documents\UMASS\Old C Sharp\New folder (12)\Ex_12_8\Ex5.4\obj\x86\Debug\Ex5._4.AboutBox.resources
+C:\Users\Angelo\Documents\UMASS\Old C Sharp\New folder (12)\Ex_12_8\Ex5.4\obj\x86\Debug\Ex5._4.SummaryForm.resources
+C:\Users\Angelo\Documents\UMASS\Old C Sharp\New folder (12)\Ex_12_8\Ex5.4\obj\x86\Debug\Ex5._4.SummerReading.resources
+C:\Users\Angelo\Documents\UMASS\Old C Sharp\New folder (12)\Ex_12_8\Ex5.4\obj\x86\Debug\Ex5._4.Resources.resources
+C:\Users\Angelo\Documents\UMASS\Old C Sharp\New folder (12)\Ex_12_8\Ex5.4\obj\x86\Debug\Ex5.4.vbproj.GenerateResource.Cache
+C:\Users\Angelo\Desktop\summer\Ex5.4\obj\x86\Debug\Ex5.4.exe
+C:\Users\Angelo\Desktop\summer\Ex5.4\obj\x86\Debug\Ex5.4.xml
+C:\Users\Angelo\Desktop\summer\Ex5.4\obj\x86\Debug\Ex5.4.pdb
